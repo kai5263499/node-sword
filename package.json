@@ -1,0 +1,14 @@
+{
+  "name"          : "sword",
+  "version"       : "0.1.0",
+  "main"          : "./sword.js",
+  "description"   : "node wrapper for libsword",
+  "keywords"      : ["sword", "bible", "crosswire"],
+  "url"           : "http://github.com/kai5263499/node-sword",
+  "repositories" : [
+    {
+       "type" : "git",
+       "url"  : "git://github.com/kai5263499/node-sword.git" 
+    } 
+  ]
+}
